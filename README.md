@@ -24,7 +24,7 @@ Hello my name is alice and this is my first repository
 
 ![An Image of a cat](http://placekitten.com/200/300)
 
-![An Image of Mona Lisa](READMEImage/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An Image of Mona Lisa](README_Image/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ```
 function hellworld() {
